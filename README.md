@@ -1,7 +1,6 @@
 # phaser-handson
-phaser-handson
 
-
+Learning phaser .
 
 1. Clone
 2. npm i
